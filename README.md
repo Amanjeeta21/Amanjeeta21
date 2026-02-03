@@ -1,14 +1,9 @@
-# Hey there!! It's Amanjeeta 👋 
-### Full Stack Developer | Cybersecurity Student | Drone Tech Enthusiast
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=200&section=header&text=Hey%20there!!%20Its%20Amanjeeta&fontSize=50&fontColor=5D3F6A" width="100%"></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!!%20Its%20Amanjeeta&fontSize=50" width="100%">
-</p>
-
-<p align="center">
-  <a href="mailto:amanjeeta_rath@srmap.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:amanjeeta.r@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Amanjeeta21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/amanjeeta-rath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/amanjeeta-rath-709925316"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -33,7 +28,7 @@
 - 🛸 **Events Lead** for **Center for Drone Technology**.
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" style="border-radius:15px; border: 2px solid #58a6ff; display: block;">
+      <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" style="border-radius:15px; border: 2px solid #FFB6C1; display: block;">
     </td>
   </tr>
 </table>
@@ -52,11 +47,11 @@
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amanjeeta21&show_icons=true&theme=tokyonight&hide_border=true" width="100%"><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjeeta21&theme=tokyonight&hide_border=true" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Amanjeeta21&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1" width="100%"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjeeta21&theme=tokyonight&hide_border=true&stroke=FFB6C1&ring=FFB6C1" width="100%">
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidW1id2x5bWF6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6v3L9pGf4s_E4/giphy.gif" width="100%" style="border-radius:10px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidW1id2x5bWF6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/6v3L9pGf4s_E4/giphy.gif" width="100%" style="border-radius:10px;">
     </td>
   </tr>
 </table>
@@ -78,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amanjeeta21&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amanjeeta21&color=ffb6c1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
