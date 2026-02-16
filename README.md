@@ -38,7 +38,7 @@
 ## 🚀 Featured Projects
 
 - **🛡️ AegisGrid :** An advanced real-time monitoring platform for digital fence security and perimeter intelligence.
-- **📚 Lendify :** A streamlined full-stack ecosystem for secure book exchange, built with robust authentication.
+- **📚 LibroLink :** A streamlined full-stack ecosystem for secure book exchange, built with robust authentication.
 - **🕌 RoyalRoutes :** A premium, responsive discovery engine showcasing the heritage and cultural gems of Rajasthan.
 
 ---
