@@ -8,6 +8,11 @@
 </p>
 
 ---
+# Hi, I'm Amanjeeta Rath! 👋
+
+[**Explore My Portfolio**](https://amanjeeta21.github.io/amanjeeta-protofolio/) | [**LinkedIn**](https://www.linkedin.com/in/amanjeeta-rath-709925316/) | [**Contact Me**](mailto:amanjeeta.r@gmail.com)
+
+---
 
 ## 🛠️ Tech Stack & Highlights
 
